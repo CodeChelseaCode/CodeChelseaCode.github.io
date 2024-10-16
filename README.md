@@ -1,6 +1,6 @@
 <div style="border: 5px solid yellow; padding: 20px; border-radius: 10px;">
 
-# Welcome to **codechelseacode**!
+# Welcome to **CodeChelseaCode**!
 
 👋🏾 Hello! I'm Chelsea Rice. This portfolio showcases my skills and journey as a programmer.
 
@@ -36,7 +36,7 @@ Feel free to reach out to me for collaborations or just to chat!
 
 ---
 
-Thank you for visiting **codechelseacode**! I hope you enjoy exploring my work as much as I enjoyed creating it. 
+Thank you for visiting **CodeChelseaCode**! I hope you enjoy exploring my work as much as I enjoyed creating it. 
 
 ✨ Let’s build something amazing together! ✨
 
