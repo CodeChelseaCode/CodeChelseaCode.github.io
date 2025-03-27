@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div style="border: 5px solid yellow; padding: 20px; border-radius: 10px;">
 
-## Getting Started
+# Welcome to **CodeChelseaCode**!
 
-First, run the development server:
+👋🏾 Hello! I'm Chelsea Rice. This portfolio showcases my skills and journey as a programmer.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 About Me
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+I'm a new grad with experience in Java, C#, & React. My goal is to build applications that are not only functional but also visually appealing and user-friendly.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🌟 Projects
 
-To learn more about Next.js, take a look at the following resources:
+Currently, I don't have any projects to showcase, but I'm actively working on developing my skills and will be adding projects soon. Stay tuned!
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 💻 Skills
 
-## Deploy on Vercel
+- **Languages**: Java, HTML, CSS, C#, SQL
+- **Frameworks**: React.js
+- **Tools**: Git
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📫 Get in Touch
+
+Feel free to reach out to me for collaborations or just to chat!
+
+- **Email**: [officialchelsearice@gmail.com](mailto:officialchelsearice@gmail.com)
+- **LinkedIn**: [Chelsea Rice on LinkedIn](https://www.linkedin.com/in/chelsea-rice-5b0031174/)
+- **GitHub**: [CodeChelseaCode on GitHub](https://github.com/CodeChelseaCode)
+
+---
+
+Thank you for visiting **CodeChelseaCode**! I hope you enjoy exploring my work as much as I enjoyed creating it. 
+
+✨ Let’s build something amazing together! ✨
+
+</div>
