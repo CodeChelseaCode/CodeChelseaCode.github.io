@@ -24,3 +24,12 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Add this section for the scale effect */
+.logo-grow {
+  transition: transform 0.3s ease-in-out;
+}
+
+.logo-grow:hover {
+  transform: scale(1.1); /* Enlarge by 10% */
+}

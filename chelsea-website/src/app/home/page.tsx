@@ -26,7 +26,14 @@ export default function Home() {
 
       {/* Logo centered at the top */}
       <div className="flex justify-center items-start pt-8">
-        <Image src="/CLogo.png" alt="Logo" width={180} height={38} priority />
+        <Image
+          src="/CLogo.png"
+          alt="Logo"
+          width={300} // Increase the width
+          height={62} // Increase the height
+          priority
+          className="logo-grow" // Apply the grow effect
+        />
       </div>
     </div>
   );
