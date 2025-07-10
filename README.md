@@ -14,6 +14,6 @@ This is my digital playground where I show off my projects, tech skills, and lov
 ## 🔗 Links
 - 🌐 [Portfolio Website](https://codechelseacode.vercel.app)  
 - 🐙 [GitHub](https://github.com/codechelseacode)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/chelsea-rice/) *(Add yours!)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/chelsea-rice/)*
 
 > “Trust The Process.” 💫
