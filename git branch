@@ -1,0 +1,85 @@
+[33mcommit d83a974e4939beafb9cf5d6394dfe3e4d6b02d4c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Chelsea Rice <officialchelsearice@gmail.com>
+Date:   Wed May 28 15:02:25 2025 -0400
+
+    splash screen updated
+    
+    updated splash screen with animation
+
+[33mcommit 9b9d3998870fe511282b05fdb65c1609185962f3[m
+Author: Chelsea Rice <officialchelsearice@gmail.com>
+Date:   Wed May 28 13:18:04 2025 -0400
+
+    Update page.tsx
+
+[33mcommit 12f1ca63084d971a3c73132b0475434c57c0eeea[m
+Author: Chelsea Rice <officialchelsearice@gmail.com>
+Date:   Wed May 28 13:00:04 2025 -0400
+
+    updated colors and bigger logo
+    
+    updated animation on website as well as color
+
+[33mcommit 81fe7718a0463339e1648a8d80252f7ee32d4aa1[m
+Author: Chelsea Rice <officialchelsearice@gmail.com>
+Date:   Fri Mar 28 17:14:31 2025 -0400
+
+    folders and different page created
+    
+    created simple functional nav bar for page
+
+[33mcommit c87c50b2007539fd052e2dacd0c592ee443efaa5[m
+Author: Chelsea Rice <officialchelsearice@gmail.com>
+Date:   Thu Mar 27 16:53:48 2025 -0400
+
+    Delete README.md
+
+[33mcommit 226e7acd014e0689d804d28d8a8285d1c1e967fd[m
+Author: Chelsea Rice <officialchelsearice@gmail.com>
+Date:   Thu Mar 27 16:49:37 2025 -0400
+
+    readme
+    
+    placed readme in the proper area.
+
+[33mcommit 57a7804cc7fbd119ee028c0536e989dd4fc4d454[m
+Author: Chelsea Rice <officialchelsearice@gmail.com>
+Date:   Thu Mar 27 16:40:59 2025 -0400
+
+    rebrand
+
+[33mcommit 468d78412a8b09e7256ddeed1603977cf2a6dbae[m
+Author: Chelsea Rice <47906077+CodeChelseaCode@users.noreply.github.com>
+Date:   Wed Oct 16 15:14:35 2024 -0400
+
+    Update README.md
+
+[33mcommit 54e86ad221578193a317ae028867b309a3dd40b2[m
+Author: Chelsea Rice <47906077+CodeChelseaCode@users.noreply.github.com>
+Date:   Wed Oct 16 15:02:52 2024 -0400
+
+    Update README.md
+
+[33mcommit e1d1d866d9bda0bcb4b18a49a71607f63544c423[m
+Author: Chelsea Rice <officialchelsearice@gmail.com>
+Date:   Thu May 30 22:50:42 2024 -0400
+
+    Create OFFICIALCodeChelseaCodeLogo.png
+
+[33mcommit 75f80ba3414f4967b29e857fb4f5615228af8f3e[m
+Author: CodeChelseaCode <officialchelsearice@gmail.com>
+Date:   Thu Nov 2 21:47:41 2023 -0400
+
+    photo for website
+
+[33mcommit 162d8c965f5ae89a449ce1cfa07ca9e033ffbcbf[m
+Author: CodeChelseaCode <officialchelsearice@gmail.com>
+Date:   Sun Oct 15 14:47:01 2023 -0400
+
+    Update README.md
+
+[33mcommit f94c25d2f18c44a8d978856fff8b320445f4c02a[m
+Author: CodeChelseaCode <47906077+CodeChelseaCode@users.noreply.github.com>
+Date:   Mon Aug 21 08:52:15 2023 -0400
+
+    Initial commit
